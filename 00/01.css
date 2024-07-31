@@ -1,0 +1,35 @@
+/* width: 100px;
+   max-width / min-width
+   요소의 가로너비 */
+/* height: 100px;
+   max-height / min-height
+   요소의 세로너비 */
+/* margin-top: 20px;
+   margin-top / margin-bottom / margin-left / margin-right
+   요소의 외부(바깥) 여백 */
+/* padding-top: 20px;
+   padding-top / padding-bottom / padding-left / padding-right
+   요소의 내부(안쪽) 여백 */
+/* border: 4px(두께) solid(종류) red(색상);
+   요소의 테두리 선 */
+/* border-radius: 10px;
+   요소의 모서리 둥글게 */
+/* box-shadow: 4px(x축) 4px(y축) 10px(흐림) rgba(0,0,0,0.5)(색상);
+   요소의 그림자 */
+/* font-sixw: 16px;
+   글꼴의 크기 */
+/* font-weight: 700;
+   글꼴의 두께 100~900 */
+/* font-family: "나눔고딕"(글꼴이름), sans-serif(글꼴종류);
+   글꼴의 이름 및 종류 지정 */
+/* line-height: 1.4;
+   글꼴의 줄 높이 */
+/* color: red;
+   문자 색상 */
+/* text-align: center;
+   문자 정렬 */
+/* text-decoration: underline;
+   text-decoration: none;
+   문자꾸미기 밑줄추가/밑줄제거 */
+/* word-break: keep-all;
+   한글에서 띄어쓰기로 단어 구분 */
